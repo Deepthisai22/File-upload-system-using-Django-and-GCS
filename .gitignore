@@ -1,5 +1,6 @@
 # 🔒 GCS credentials
 service-account.json
+gcs-credentials.json
 
 # 🐍 Python bytecode
 __pycache__/
